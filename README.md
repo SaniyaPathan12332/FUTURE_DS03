@@ -74,6 +74,7 @@ Originally `1–10` → Converted to `1–5` (for uniform interpretation of sati
 ### 💡 Author  
 **Saniya Pathan**  
 📊 Data Analyst Enthusiast  
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [linkedin](www.linkedin.com/in/saniya-pathan-3a00b7354) | 
+   [GitHub](https://github.com/SaniyaPathan12332)
 
 ⭐ *If you found this project helpful, please give it a star!*
